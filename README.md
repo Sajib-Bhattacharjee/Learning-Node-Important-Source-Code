@@ -7,7 +7,7 @@ Learning Node.js.
 
 #### Learning Outcomes-
 ```
-When I was in node.js to make the learning process more accessible, I divided the
+When I was learning node.js then to make the learning process more accessible, I divided the
 codes of each topic into a part and edited them here so that I could easily 
 understand each case and the learning process is much easier. So, 
 You can benefit from it and your learning process can be easier.
